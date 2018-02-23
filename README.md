@@ -11,7 +11,7 @@
   management** from Imperial College London](https://www.imperial.ac.uk/study/ug/courses/electrical-engineering-department/electrical-and-electronic-engineering-management/) 
   in June 2016 with upper second class honours.
 - Full stack developer
-- 6 years of [studies](#Education) + 1 year of [work experience](#Work%20Experience)
+- 6 years of [studies](#Education) + 1 year of [work experience](#Work-Experience)
 - Fluent in English :gb:, français :fr: y un poco de español :es:
 - French and Mauritian, and lived:
     - 2016-2018 New York City, US
@@ -23,18 +23,20 @@
 
 ## Links
 
-- [https://quentinmcgaw.info](https://quentinmcgaw.info)
+- [**https://quentinmcgaw.info**](https://quentinmcgaw.info)
 - [My **resume**](https://docs.google.com/document/d/1gW0IHPsngqwVWQA4ERTgOxG5V7-DIBQmt1SBq5LQEzI/export?format=pdf)
 - [My NYU Simplicity profile](https://nyu-csm.symplicity.com/profiles/quentin.mcgaw)
-- [My **vizualize.me** webpage](http://vizualize.me/quentinmcgaw)
+- [My vizualize.me webpage](http://vizualize.me/quentinmcgaw)
 
 ## Expertise - Full stack dev and more
 
-Here is a sum up diagram of my skills with icons of corresponding software or technology I am used to.
+My favourites: Golang, Python, React Native, Docker, SQL, HTML/CSS/JS, security & cryptography
+
+The following represents icons of software or technology I am skilled in.
 
 ![Skills diagram](images/skills.png)
 
-You can check a list of my skills in detail at [the bottom](#Skills%20details)
+You can check a list of my skills in detail at [the bottom](#Skills-details)
 
 ## Hobbies
 
@@ -51,7 +53,7 @@ You can check a list of my skills in detail at [the bottom](#Skills%20details)
             - Games: [COD4x](https://github.com/qdm12/cod4-docker) and [Minecraft Spigot](https://hub.docker.com/r/qmcgaw/spigot/) servers
     - [Raspberry Pi 3B](https://github.com/qdm12/RaspberryPi) as my *portable* NAS
     - GliNet AR300 as my *airport* NAS
-    - [Assembling desktops](#Computers%20I%20assembled)
+    - [Assembling desktops](#computer-builds-computer)
 - Other: Cryptocurrencies, [Ebay](http://feedback.ebay.ie/ws/eBayISAPI.dll?ViewFeedback2&userid=dowi9876&ftab=FeedbackAsSeller), Audiobooks
 - Games: Planet Side 2, Minecraft, Call of Duty 4
 
@@ -96,26 +98,26 @@ You can check a list of my skills in detail at [the bottom](#Skills%20details)
 
 ### Courses
 
-- [Cloud computing](https://github.com/qdm12/courses/tree/master/Cloud%20computing)
+- [Cloud computing](https://github.com/qdm12/courses/tree/master/Cloud-computing)
     - AWS with CloudFoundry & Bosh
     - Ongoing project
-- [.NET Web development](https://github.com/qdm12/courses/tree/master/.NET%20Web%20development)
-- [Cryptocurrency and decentralized ledgers](https://github.com/qdm12/courses/tree/master/Cryptocurrency%20and%20decentralized%20ledgers)
+- [.NET Web development](https://github.com/qdm12/courses/tree/master/.NET-Web-development)
+- [Cryptocurrency and decentralized ledgers](https://github.com/qdm12/courses/tree/master/Cryptocurrency-and-decentralized-ledgers)
     - **Bitcoin** protocol: mining, transactions, cryptography etc.
     - **Ethereum**: Solidity-written smart contracts
-- [Real time big data analytics](https://github.com/qdm12/courses/tree/master/Real%20time%20big%20data%20analytics)
+- [Real time big data analytics](https://github.com/qdm12/courses/tree/master/Real-time-big-data-analytics)
     - Hadoop with NYU's Dumbo clusters in *Java* and *Python*
     - Hive, Impala, Spark, Pig etc.
     - [**Bitcoin Use Trends**](https://github.com/qdm12/BitcoinUses) project
     
     [![Bitcoin Use trends website](images/bitcoinuses.png)](https://qdm12.github.io/BitcoinUses/results/)
     
-- [Design and Development: Web and mobile apps](https://github.com/qdm12/courses/tree/master/Design%20and%20development%20of%20mobile%20and%20web%20apps)
+- [Design and Development: Web and mobile apps](https://github.com/qdm12/courses/tree/master/Design-and-development-of-mobile-and-web-apps)
     - [**Bill Splitter** project](https://github.com/qdm12/BillSplitter)
     
     [![Bill Splitter](images/billsplitter.png)](https://github.com/qdm12/BillSplitter)
     
-- [Technology, design and entrepreneurship](https://github.com/qdm12/courses/tree/master/Technology%20and%20entrepreneurship)
+- [Technology, design and entrepreneurship](https://github.com/qdm12/courses/tree/master/Technology-and-entrepreneurship)
     - Ended up with the *Coyummy* project I am still working on (March 2018)
 - DevOps
     - [Project](https://qdm12.github.io/Devops_RESTful)
@@ -125,7 +127,7 @@ You can check a list of my skills in detail at [the bottom](#Skills%20details)
     - Travis CI, unit testing and behave
     - RESTful API with Swagger
     - Web security
-- [Database Systems](https://github.com/qdm12/courses/tree/master/Database%20systems)
+- [Database Systems](https://github.com/qdm12/courses/tree/master/Database-systems)
     - Microsoft Visio (ER diagram, Crow's feet notation etc.)
     - SQL databases
     - Normalization, minimum cover, etc.
@@ -141,10 +143,10 @@ You can check a list of my skills in detail at [the bottom](#Skills%20details)
 - Operating System
     - C++ assignments: scheduler, linker, IO, memory management
     - Processes, threads, scheduling, concurrency, memory management, IO, file systems, Networking, cloud and distributed computing
-- [Programming languages](https://github.com/qdm12/courses/tree/master/Programming%20languages)
+- [Programming languages](https://github.com/qdm12/courses/tree/master/Programming-languages)
     - Scala, Java, ML, Scheme, Ada
     - Syntax, scoping, call stack, recursion, lambda calculus, dynamic storage
-- [Fundamental algorithms](https://github.com/qdm12/courses/tree/master/Fundamental%20Algorithms)
+- [Fundamental algorithms](https://github.com/qdm12/courses/tree/master/Fundamental-Algorithms)
     - Data structures: Heap, binary search trees, Hash tables, 
     - Sort algorithms: Quicksort, Countingsort, Radixsort, Bucketsort, Mergesort
     - Dynammic programming: LCS, Parenthesizations, Matrix-chain-product
@@ -182,14 +184,14 @@ You can check a list of my skills in detail at [the bottom](#Skills%20details)
 
 - Design of Redio
 
-        ![Redio gif](https://raw.githubusercontent.com/qdm12/PersonalWebsite/master/gifs/redio.gif)
+[![Redio gif](https://raw.githubusercontent.com/qdm12/PersonalWebsite/master/gifs/redio.gif)]()
 
 - Design of simple desktop web pages using Adobe XD for a travelling website (for a Psychological study)
     - [Male version](https://xd.adobe.com/view/844b6668-0d5c-4d92-b30f-6bcbf3ce8479/?fullscreen)
     - [Female version](https://xd.adobe.com/view/192c9261-da69-48d6-81ac-570b5e4f5e16/?fullscreen)
 - [AdsUp](https://sites.google.com/view/adsup/home)
 
-        [![AdsUp gif](https://raw.githubusercontent.com/qdm12/PersonalWebsite/master/gifs/adsup.gif)](https://sites.google.com/view/adsup/home)
+[![AdsUp gif](https://raw.githubusercontent.com/qdm12/PersonalWebsite/master/gifs/adsup.gif)](https://sites.google.com/view/adsup/home)
 
 - [Portfolio management](https://github.com/qdm12/Portfolio)
   - Written in Python, consists in a multi-threaded program parsing web pages, using the yahoo finance API, excel and a Flask server
@@ -210,7 +212,7 @@ You can check a list of my skills in detail at [the bottom](#Skills%20details)
     - Programming in C++
     - Cryptography and security
 - Homomorphic encryption allows to perform analytics on encrypted data, which will be very useful for cloud computing.
-- Report available [here](documents/Homomorphic%20encryption%20Cryptography%20for%20cloud%20computing%20report.pdf)
+- Report available [here](documents/Homomorphic-encryption-Cryptography-for-cloud-computing-report.pdf)
 - Click on the following animation to play the video
 
 [![Homomorphic encryption presentation video](gifs/video_homomorphic.gif)](https://youtu.be/n-adgQWZYxI)
@@ -225,7 +227,7 @@ You can check a list of my skills in detail at [the bottom](#Skills%20details)
 - Coding Theory
     - Cryptography
     - Communication theory
-    - [30 minutes course I gave to fellow students](documents/Presentation%20coding%20theory%20Bitcoin.pptx)
+    - [30 minutes course I gave to fellow students](documents/Presentation-coding-theory-Bitcoin.pptx)
 - High performance computing for engineers
     - Amazon web services (AWS)
     - C++, OpenCL and TBB (intel)
@@ -235,7 +237,7 @@ You can check a list of my skills in detail at [the bottom](#Skills%20details)
     - [**Android app**](https://github.com/qdm12/Staminapp) development with Android Wear
     - [**Machine learning**](https://github.com/qdm12/Staminaputations) in Python (clustering)
     - NodeJS, SQL database
-    - Report available [here](documents/Stamina%20report.pdf)
+    - Report available [here](documents/Stamina-report.pdf)
     - Click on the following animation to play the video
         - [![Stamina video](gifs/video_stamina.gif)](https://drive.google.com/open?id=0B5UPjZHikV5gWVBwUnVpWjZHQVU)
 - Managing innovation
@@ -243,8 +245,8 @@ You can check a list of my skills in detail at [the bottom](#Skills%20details)
     - Full syllabus [here](managerial_economics.md)
     - ![syllabus preview](gifs/economics_syllabus.gif)
 - Corporate finance
-    - Group [report on the fair valuation of the S&P500](documents/Fair%20Valuation%20of%20the%20SP500%20index.pdf)
-    - Group [presentation on the MSFT Valuation](documents/Microsoft%20Corp%20(MSFT)%20Valuation.pdf)
+    - Group [report on the fair valuation of the S&P500](documents/Fair-Valuation-of-the-SP500-index.pdf)
+    - Group [presentation on the MSFT Valuation](documents/Microsoft-Corp-(MSFT)-Valuation.pdf)
     - Full syllabus [here](corporate_finance.md)
     - ![syllabus preview](gifs/finance_syllabus.gif)
 
@@ -255,18 +257,18 @@ You can check a list of my skills in detail at [the bottom](#Skills%20details)
 - Digital signal processing
 - Advanced signal processing
     - Use of Matlab
-    - [Coursework report](documents/Advanced%20signal%20processing%20report.pdf)
+    - [Coursework report](documents/Advanced-signal-processing-report.pdf)
 - Artificial intelligence
     - Use of Prologue
 - Communication networks
 - Real-time digital signal processing
     - Based on C and C++ projects to filter signals
-    - [Report on Interrup I/O laboratory](documents/RTDSP%20report%203.pdf)
-    - [Report on Real time implementation of FIR filters laboratory](documents/RTDSP%20report%204.pdf)
-    - [Report on Real time implementation of IIR filters laboratory](documents/RTDSP%20report%205.pdf)
-    - [Report on a speech enhancement project](documents/RTDSP%20report%20project.pdf)
+    - [Report on Interrup I/O laboratory](documents/RTDSP-report-3.pdf)
+    - [Report on Real time implementation of FIR filters laboratory](documents/RTDSP-report-4.pdf)
+    - [Report on Real time implementation of IIR filters laboratory](documents/RTDSP-report-5.pdf)
+    - [Report on a speech enhancement project](documents/RTDSP-report-project.pdf)
 - Entrepreneurship
-    - [Business plan](documents/Business%20plan%20Sports%20Connect.pdf) about Sports Connect
+    - [Business plan](documents/Business-plan-Sports-Connect.pdf) about Sports Connect
 - Accounting
 - Project management
     - Group project on the Boeing 747 project
@@ -319,7 +321,7 @@ You can check a list of my skills in detail at [the bottom](#Skills%20details)
 - Software engineering: C & C++
 - Mathematics
 - Professional engineering
-    - [Report on Micro NAND flask memory chips](documents/Professional%20report%20-%20Micron%2020nm%20MLC%20NAND%20flash%20128Gb%20memory%20chip.pdf)
+    - [Report on Micro NAND flask memory chips](documents/Professional-report---Micron-20nm-MLC-NAND-flash-128Gb-memory-chip.pdf)
 - Analysis of circuits
     - Use of Cadsoft Eagle and PSPice
 - Digital electronics
@@ -448,7 +450,7 @@ You can check out the certificate [here](documents/imperial_degree.pdf)
 
 [![Scotland hotel picture](images/scotland.jpg)](https://goo.gl/maps/d6Waq2cGDsp)
 - All my grades are accessible in this [**formatted spreadsheet**](https://docs.google.com/spreadsheets/d/1udRYqsP2acNWp2wQk6SEaNb65T-0Gl_vL5lXWiQSeGQ/edit?usp=sharing)
-- I write some funny theories like this [**one**](documents/fun%20theory.md)
+- I write some funny theories like this [**one**](documents/fun-theory.md)
 - My portable NAS: The Raspberrypi Pi (thanks Denisa)
 
 ![Raspberry Pi picture](images/raspberrypi.jpg)
