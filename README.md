@@ -30,75 +30,11 @@
 
 ## Expertise - Full stack dev and more
 
-Here is a sum up diagram of my skills with icons of corresponding software I am used to.
+Here is a sum up diagram of my skills with icons of corresponding software or technology I am used to.
 
 ![Skills diagram](images/skills.png)
 
-And I am the swiss knife, also known as full stack developer !
-
-- Backend
-    - Advanced Golang
-    - Advanced NodeJS
-    - Advanced Python
-    - Advanced Java
-    - Advanced RESTful API design and Swagger
-    - Unit testing
-    - Basics of .NET
-    - Basics of PHP
-    - Basics of C++
-    - Basics of Ethereum Solidity
-    - Basics of openCL parallel computing
-- Database
-    - MySQL, MariaDB
-    - Basics of Redis
-    - Big data analytics with Hadoop, Hive, Impala, Spark etc.
-- Front end
-    - Advanced React Native with NodeJS, Babel
-    - Advanced HTML, CSS, Javascript
-    - Basics of PhoneGap, Cordova
-    - Basics of .NET
-- Design
-    - Adobe XD
-    - inVision
-    - Gimp, Photofiltre
-- Security
-    - Advanced cryptography
-    - Advanced web security
-    - Bitcoin protocol, Ethereum Solidity
-- Server Admin
-    - Advanced SSH (Setup, connecting, SFTP, tunneling, etc.)
-    - Advanced Shell & Bash scripting
-    - Users and groups management and permissions
-    - Basics of Apache, Nginx and Caddy
-    - Advanced use of Debian, Ubuntu, DSM, CentOS
-- DevOps
-    - Advanced use of Docker and Vagrant
-    - Advanced use of Git, Gitea, Gitlab, GitKraken, Zenhub
-    - Travis CI, Coveralls, Jenkins
-- Cloud
-    - Advanced use of AWS
-    - Basics of Google Cloud
-    - Basics of IBM Bluemix
-    - Basics of CloudFoundry + Bosh on AWS
-- Algorithms
-    - Advanced cryptography
-    - Fundamental algorithms
-    - Basics of Artificial intelligence
-    - Mathematics, Control engineering
-- Hardware
-    - FPGA design
-    - Digital electronics
-    - Digital signal processing
-    - Power engineering
-    - NFC technology
-    - Android OS (C, C++, Java)
-- Managerial and society
-    - Corporate finance
-    - Economics
-    - Accounting (UK only)
-    - Project management
-    - Entrepreneurship and startups
-    - Innovation management
+You can check a list of my skills in detail at [the bottom](#Skills%20details)
 
 ## Hobbies
 
@@ -429,6 +365,74 @@ You can check out the certificate [here](documents/imperial_degree.pdf)
 
 ![Article 2](images/article2.jpg)
 
+***
+
+## Skills details
+
+- Backend
+    - Advanced Golang
+    - Advanced NodeJS
+    - Advanced Python
+    - Advanced Java
+    - Advanced RESTful API design and Swagger
+    - Unit testing
+    - Basics of .NET
+    - Basics of PHP
+    - Basics of C++
+    - Basics of Ethereum Solidity
+    - Basics of openCL parallel computing
+- Database
+    - MySQL, MariaDB
+    - Basics of Redis
+    - Big data analytics with Hadoop, Hive, Impala, Spark etc.
+- Front end
+    - Advanced React Native with NodeJS, Babel
+    - Advanced HTML, CSS, Javascript
+    - Basics of PhoneGap, Cordova
+    - Basics of .NET
+- Design
+    - Adobe XD
+    - inVision
+    - Gimp, Photofiltre
+- Security
+    - Advanced cryptography
+    - Advanced web security
+    - Bitcoin protocol, Ethereum Solidity
+- Server Admin
+    - Advanced SSH (Setup, connecting, SFTP, tunneling, etc.)
+    - Advanced Shell & Bash scripting
+    - Users and groups management and permissions
+    - Basics of Apache, Nginx and Caddy
+    - Advanced use of Debian, Ubuntu, DSM, CentOS
+- DevOps
+    - Advanced use of Docker and Vagrant
+    - Advanced use of Git, Gitea, Gitlab, GitKraken, Zenhub
+    - Travis CI, Coveralls, Jenkins
+- Cloud
+    - Advanced use of AWS
+    - Basics of Google Cloud
+    - Basics of IBM Bluemix
+    - Basics of CloudFoundry + Bosh on AWS
+- Algorithms
+    - Advanced cryptography
+    - Fundamental algorithms
+    - Basics of Artificial intelligence
+    - Mathematics, Control engineering
+- Hardware
+    - FPGA design
+    - Digital electronics
+    - Digital signal processing
+    - Power engineering
+    - NFC technology
+    - Android OS (C, C++, Java)
+- Managerial and society
+    - Corporate finance
+    - Economics
+    - Accounting (UK only)
+    - Project management
+    - Entrepreneurship and startups
+    - Innovation management
+    
 ***
 
 ## Others
