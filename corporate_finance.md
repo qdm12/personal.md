@@ -1,0 +1,49 @@
+# Corporate finance syllabus
+
+## Imperial College London Business school
+
+- Introduction to finance
+    - Flow of funds
+    - Financial intermediation role
+    - Financial markets and economic growth
+    - Basic securities
+    - Size of financial markets
+    - Financial crisis and organisation of financial markets
+- Bond markets
+    - Bond prices
+    - Bond and interest rates
+    - Yield curves
+    - Corporate bonds
+    - The money market
+- Equity markets
+    - Cash flows
+    - Equity valuation
+    - IPO and rights issue
+- Valuation of the firm
+    - Calculating enterprise value
+    - Comparables
+    - DCF Dilemna
+- The history of equity markets
+    - Returns management
+    - Indices and correlation
+    - Risk and return
+    - Markets efficiency
+- Portfolio allocation
+    - Portfolio theory
+    - Principle of diversification
+    - Measuring beta
+    - Risk and return
+- Cost of capital
+    - Estimating the cost of capital, equity and debt
+    - Project valuation
+- Capital structure
+    - Modigliani and Miller's
+    - Bankruptcy and financial distress
+    - Private equity: winners and losers
+- Risk management
+    - Futures
+    - Cash and carry arbitrage
+    - Commodity hedging
+    - Options
+    - Option pricing modelling
+    - Capital guarantee design

@@ -1,0 +1,60 @@
+# Managerial economics syllabus
+
+## Imperial College London Business school
+
+- Principles of supply and demand
+- Allocation by supply and demand
+    - Free markets and limited free markets
+    - Market failure
+- Demand and costs
+    - Demand curve
+    - Elasticity
+    - Network effects
+    - Opportunity costs
+    - Short-run and long-run costs
+- Pricing with market power
+    - Pooled pricing
+    - Marginal cost
+    - Inverse elasticity rule
+    - Targeted pricing
+    - Price discrimination
+    - Personalised pricing
+    - Group pricing
+    - Versioning
+- Strategic interaction: Game theory
+    - Simultaneous-choice games
+    - Nash equilibrium
+    - Prisoner's Dilemma
+    - Tragedy of the commons
+    - Coordination games
+- Entry and exit
+    - Natural and strategic barriers to entry
+    - Industry equilibrium in a Bertrand setting
+    - Game trees
+    - Backward induction
+    - Credible threats
+    - Commitment mechanisms
+- The language of macroeconomics
+    - GDP as a welfare measure
+    - Supply side
+    - The production function
+    - Capital accumulation and the capital stock
+    - The determination of interest rates
+- Labour market and trade
+    - Natural rate of unemployment
+    - Comparative advantage and terms of trade
+    - Internation trade
+- Consumption and investment
+    - The drivers of consumption spending
+    - Consumption and investment
+    - Consumption and permanent income
+    - Income and substitution effects and interest rates
+    - Impact of interest rates on consumption
+    - The determinants of investment spending
+    - The determination of interest rates
+- Money and prices
+    - Prices and the rate of inflation
+    - Money and prices
+    - Conventional and unconventional monetary policies
+    - Taylor rule
+    - Zero bound, liquidity traps and Quantitative easing
