@@ -11,8 +11,8 @@
   management** from Imperial College London](https://www.imperial.ac.uk/study/ug/courses/electrical-engineering-department/electrical-and-electronic-engineering-management/) 
   in June 2016 with upper second class honours.
 - Full stack developer
-- 6 years of [studies](#Education) + 1 year of [work experience](#Work-Experience)
-- Fluent in English :gb:, français :fr: y un poco de español :es:
+- 6 years of [studies](#education) + 1 year of [work experience](#work-experience)
+- Fluent in English, français y un poco de español
 - French and Mauritian, and lived:
     - 2016-2018 New York City, US
     - 2012-2016 in London, UK
@@ -36,7 +36,7 @@ The following represents icons of software or technology I am skilled in.
 
 ![Skills diagram](images/skills.png)
 
-You can check a list of my skills in detail at [the bottom](#Skills-details)
+You can check a list of my skills in detail at [the bottom](#skills-details)
 
 ## Hobbies
 
@@ -53,13 +53,13 @@ You can check a list of my skills in detail at [the bottom](#Skills-details)
             - Games: [COD4x](https://github.com/qdm12/cod4-docker) and [Minecraft Spigot](https://hub.docker.com/r/qmcgaw/spigot/) servers
     - [Raspberry Pi 3B](https://github.com/qdm12/RaspberryPi) as my *portable* NAS
     - GliNet AR300 as my *airport* NAS
-    - [Assembling desktops](#computer-builds-computer)
+    - [Assembling desktops](#computer-builds)
 - Other: Cryptocurrencies, [Ebay](http://feedback.ebay.ie/ws/eBayISAPI.dll?ViewFeedback2&userid=dowi9876&ftab=FeedbackAsSeller), Audiobooks
 - Games: Planet Side 2, Minecraft, Call of Duty 4
 
 ***
 
-## Work experience :office:
+## Work experience
 
 ### Industrial placement at Coinplus, 2015
 
@@ -121,7 +121,7 @@ You can check a list of my skills in detail at [the bottom](#Skills-details)
     - Ended up with the *Coyummy* project I am still working on (March 2018)
 - DevOps
     - [Project](https://qdm12.github.io/Devops_RESTful)
-    - Advanced Git, Zenhub and GitKraken :octocat:
+    - Advanced Git, Zenhub and GitKraken
     - Vagrant and Docker on IBM Bluemix cloud
     - Python with Flask and a Redis database
     - Travis CI, unit testing and behave
@@ -293,26 +293,26 @@ You can check a list of my skills in detail at [the bottom](#Skills-details)
     - ![Digital circuit](images/circuit.jpg)
 - Analogue electronics
 - Power engineering
-- Communication systems :signal_strength:
+- Communication systems
 - Signal and linear systems
 - Control engineering
 
 #### Year group project: *Wasteless*
 
 - Leader of a team of 7 students
-- Goal was to develop an ecosystem to reduce the waste of expired food :meat_on_bone:
-    - Push notification to the smartphone of the user about food products nearly expired :warning:
-    - Propose the user to share nearly expired food with neighbours :older_woman:
-    - Establish a network of "food friends" with reputation points, messaging and so on :globe_with_meridians:
+- Goal was to develop an ecosystem to reduce the waste of expired food
+    - Push notification to the smartphone of the user about food products nearly expired
+    - Propose the user to share nearly expired food with neighbours
+    - Establish a network of "food friends" with reputation points, messaging and so on
 - This involved several technologies and developments
     - At the supermarket level, barcodes were replaced by low-cost RFID chips 
       (contactless) containing the expiry date of the product in addition to 
       the barcode data. This also allowed a faster checkout for the customer.
-    - At the customer level, an Android application was developed :iphone:
+    - At the customer level, an Android application was developed
     - A C++ based server was developed to communicate information on all the goods bought by each user and to handle the food social network.
-    - A C++ client program for the cashier at the supermarket was developed. :computer:
+    - A C++ client program for the cashier at the supermarket was developed.
     - A website was also designed for non-mobile users of Wasteless.
-- The final state of the group project was actually promising and we obtained surprisingly high marks :smile:
+- The final state of the group project was actually promising and we obtained surprisingly high marks
 
 ### First year, 2012-2013
 
@@ -439,14 +439,14 @@ You can check out the certificate [here](documents/imperial_degree.pdf)
 
 ## Others
 
-### Fun facts :open_mouth:
+### Fun facts
 
-- I have a UK driving license :red_car:
-- I climbed the [Kilimanjaro](https://goo.gl/maps/Pur81wuxvzs) mountain in Tanzania at the age of 12 :mount_fuji:
+- I have a UK driving license
+- I climbed the [Kilimanjaro](https://goo.gl/maps/Pur81wuxvzs) mountain in Tanzania at the age of 12
 
 [![Kilimanjaro picture](images/kilimanjaro.jpg)](https://goo.gl/maps/Pur81wuxvzs)
 [![Kilimanjaro picture](images/kilimanjaro2.jpg)](https://goo.gl/maps/Pur81wuxvzs)
-- I had a summer job as a waiter and cleaner in the [Castle Venlaw Hotel](https://goo.gl/maps/d6Waq2cGDsp) in Scotland, Peebles :hotel:
+- I had a summer job as a waiter and cleaner in the [Castle Venlaw Hotel](https://goo.gl/maps/d6Waq2cGDsp) in Scotland, Peebles
 
 [![Scotland hotel picture](images/scotland.jpg)](https://goo.gl/maps/d6Waq2cGDsp)
 - All my grades are accessible in this [**formatted spreadsheet**](https://docs.google.com/spreadsheets/d/1udRYqsP2acNWp2wQk6SEaNb65T-0Gl_vL5lXWiQSeGQ/edit?usp=sharing)
@@ -459,7 +459,7 @@ You can check out the certificate [here](documents/imperial_degree.pdf)
 
 (in progress)
 
-### Computer builds :computer:
+### Computer builds
 
 - See more on [Google Drive](https://drive.google.com/drive/folders/0B5UPjZHikV5gQ3pyTVR2M3RMaUk?usp=sharing)
 
