@@ -212,7 +212,7 @@ You can check a list of my skills in detail at [the bottom](#skills-details)
     - Programming in C++
     - Cryptography and security
 - Homomorphic encryption allows to perform analytics on encrypted data, which will be very useful for cloud computing.
-- Report available [here](documents/Homomorphic-encryption-Cryptography-for-cloud-computing-report.pdf)
+- Report available [here](docs/Homomorphic-encryption-Cryptography-for-cloud-computing-report.pdf)
 - Click on the following animation to play the video
 
 [![Homomorphic encryption presentation video](gifs/video_homomorphic.gif)](https://youtu.be/n-adgQWZYxI)
@@ -227,7 +227,7 @@ You can check a list of my skills in detail at [the bottom](#skills-details)
 - Coding Theory
     - Cryptography
     - Communication theory
-    - [30 minutes course I gave to fellow students](documents/Presentation-coding-theory-Bitcoin.pptx)
+    - [30 minutes course I gave to fellow students](docs/Presentation-coding-theory-Bitcoin.pptx)
 - High performance computing for engineers
     - Amazon web services (AWS)
     - C++, OpenCL and TBB (intel)
@@ -237,7 +237,7 @@ You can check a list of my skills in detail at [the bottom](#skills-details)
     - [**Android app**](https://github.com/qdm12/Staminapp) development with Android Wear
     - [**Machine learning**](https://github.com/qdm12/Staminaputations) in Python (clustering)
     - NodeJS, SQL database
-    - Report available [here](documents/Stamina-report.pdf)
+    - Report available [here](docs/Stamina-report.pdf)
     - Click on the following animation to play the video
         - [![Stamina video](gifs/video_stamina.gif)](https://drive.google.com/open?id=0B5UPjZHikV5gWVBwUnVpWjZHQVU)
 - Managing innovation
@@ -245,8 +245,8 @@ You can check a list of my skills in detail at [the bottom](#skills-details)
     - Full syllabus [here](managerial_economics.md)
     - ![syllabus preview](gifs/economics_syllabus.gif)
 - Corporate finance
-    - Group [report on the fair valuation of the S&P500](documents/Fair-Valuation-of-the-SP500-index.pdf)
-    - Group [presentation on the MSFT Valuation](documents/Microsoft-Corp-(MSFT)-Valuation.pdf)
+    - Group [report on the fair valuation of the S&P500](docs/Fair-Valuation-of-the-SP500-index.pdf)
+    - Group [presentation on the MSFT Valuation](docs/Microsoft-Corp-(MSFT)-Valuation.pdf)
     - Full syllabus [here](corporate_finance.md)
     - ![syllabus preview](gifs/finance_syllabus.gif)
 
@@ -257,18 +257,18 @@ You can check a list of my skills in detail at [the bottom](#skills-details)
 - Digital signal processing
 - Advanced signal processing
     - Use of Matlab
-    - [Coursework report](documents/Advanced-signal-processing-report.pdf)
+    - [Coursework report](docs/Advanced-signal-processing-report.pdf)
 - Artificial intelligence
     - Use of Prologue
 - Communication networks
 - Real-time digital signal processing
     - Based on C and C++ projects to filter signals
-    - [Report on Interrup I/O laboratory](documents/RTDSP-report-3.pdf)
-    - [Report on Real time implementation of FIR filters laboratory](documents/RTDSP-report-4.pdf)
-    - [Report on Real time implementation of IIR filters laboratory](documents/RTDSP-report-5.pdf)
-    - [Report on a speech enhancement project](documents/RTDSP-report-project.pdf)
+    - [Report on Interrup I/O laboratory](docs/RTDSP-report-3.pdf)
+    - [Report on Real time implementation of FIR filters laboratory](docs/RTDSP-report-4.pdf)
+    - [Report on Real time implementation of IIR filters laboratory](docs/RTDSP-report-5.pdf)
+    - [Report on a speech enhancement project](docs/RTDSP-report-project.pdf)
 - Entrepreneurship
-    - [Business plan](documents/Business-plan-Sports-Connect.pdf) about Sports Connect
+    - [Business plan](docs/Business-plan-Sports-Connect.pdf) about Sports Connect
 - Accounting
 - Project management
     - Group project on the Boeing 747 project
@@ -321,7 +321,7 @@ You can check a list of my skills in detail at [the bottom](#skills-details)
 - Software engineering: C & C++
 - Mathematics
 - Professional engineering
-    - [Report on Micro NAND flask memory chips](documents/Professional-report---Micron-20nm-MLC-NAND-flash-128Gb-memory-chip.pdf)
+    - [Report on Micro NAND flask memory chips](docs/Professional-report-Micron-20nm-MLC-NAND-flash-128Gb-memory-chip.pdf)
 - Analysis of circuits
     - Use of Cadsoft Eagle and PSPice
 - Digital electronics
@@ -345,7 +345,7 @@ You can check a list of my skills in detail at [the bottom](#skills-details)
 ### Graduation results
 
 I have obtained my Master's degree with upper second class honours and 61.32% overall
-You can check out the certificate [here](documents/imperial_degree.pdf)
+You can check out the certificate [here](docs/Degree-imperial-college-london.pdf)
 
 ***
 
@@ -450,7 +450,7 @@ You can check out the certificate [here](documents/imperial_degree.pdf)
 
 [![Scotland hotel picture](images/scotland.jpg)](https://goo.gl/maps/d6Waq2cGDsp)
 - All my grades are accessible in this [**formatted spreadsheet**](https://docs.google.com/spreadsheets/d/1udRYqsP2acNWp2wQk6SEaNb65T-0Gl_vL5lXWiQSeGQ/edit?usp=sharing)
-- I write some funny theories like this [**one**](documents/fun-theory.md)
+- I write some funny theories like this [**one**](docs/fun-theory.md)
 - My portable NAS: The Raspberrypi Pi (thanks Denisa)
 
 ![Raspberry Pi picture](images/raspberrypi.jpg)
