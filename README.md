@@ -160,19 +160,19 @@ You can check a list of my skills in detail at [the bottom](#skills-details)
 - Docker containers
     - [Private Internet Access VPN](https://github.com/qdm12/private-internet-access-docker)
     
-        [![PIA Container](https://github.com/qdm12/private-internet-access-docker/raw/master/readme/title.png)](https://github.com/qdm12/private-internet-access-docker)
+        [![PIA Container](images/piadocker.png)](https://github.com/qdm12/private-internet-access-docker)
     
     - [GoDaddy DDNS Public IP Updater](https://github.com/qdm12/godaddy-ip-ddns)
 
-        [![GoDaddy Container](https://github.com/qdm12/godaddy-ip-ddns/raw/master/readme/godaddy.png)](https://github.com/qdm12/godaddy-ip-ddns)
+        [![GoDaddy Container](images/godaddydocker.png)](https://github.com/qdm12/godaddy-ip-ddns)
 
     - [Minecraft Spigot Server](https://github.com/qdm12/spigot-docker)
 
-        [![Spigot Container](https://github.com/qdm12/spigot-docker/raw/master/readme/title.png)](https://github.com/qdm12/spigot-docker)
+        [![Spigot Container](images/spigotdocker.png)](https://github.com/qdm12/spigot-docker)
 
     - [Youtube-dl Alpine container](https://github.com/qdm12/youtube-dl-docker)
 
-        [![Youtube-dl Container](https://github.com/qdm12/youtube-dl-docker/raw/master/readme/title.png)](https://github.com/qdm12/youtube-dl-docker)
+        [![Youtube-dl Container](images/youtubedldocker.png)](https://github.com/qdm12/youtube-dl-docker)
 
 - [Password Derivator](https://github.com/qdm12/Password-Derivator)
 
@@ -180,19 +180,16 @@ You can check a list of my skills in detail at [the bottom](#skills-details)
 
 - [My Blockchain Course](https://github.com/qdm12/blockchain-course) (in progress)
 
-    [![Blockchain course](https://github.com/qdm12/blockchain-course/raw/master/images/dependencies.png)](https://github.com/qdm12/blockchain-course)
+    [![Blockchain course](images/blockchain-course.png)](https://github.com/qdm12/blockchain-course)
 
 - Design of Redio
 
-[![Redio gif](https://raw.githubusercontent.com/qdm12/PersonalWebsite/master/gifs/redio.gif)]()
+[Redio gif](https://raw.githubusercontent.com/qdm12/PersonalWebsite/master/gifs/redio.gif)]
 
+- [AdsUp](https://sites.google.com/view/adsup/home)
 - Design of simple desktop web pages using Adobe XD for a travelling website (for a Psychological study)
     - [Male version](https://xd.adobe.com/view/844b6668-0d5c-4d92-b30f-6bcbf3ce8479/?fullscreen)
     - [Female version](https://xd.adobe.com/view/192c9261-da69-48d6-81ac-570b5e4f5e16/?fullscreen)
-- [AdsUp](https://sites.google.com/view/adsup/home)
-
-[![AdsUp gif](https://raw.githubusercontent.com/qdm12/PersonalWebsite/master/gifs/adsup.gif)](https://sites.google.com/view/adsup/home)
-
 - [Portfolio management](https://github.com/qdm12/Portfolio)
   - Written in Python, consists in a multi-threaded program parsing web pages, using the yahoo finance API, excel and a Flask server
 - [My computing course](https://github.com/qdm12/My-Computing-course)
