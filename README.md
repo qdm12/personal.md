@@ -1,6 +1,6 @@
 # Quentin McGaw
 
-**Tags**: EEE_MEng, CS_MSc, Entrepreneur, FullStackDev, Cryptocurrecies, Security, Cloud, Passionate
+**Tags**: EEE-MEng, CS-MSc, Entrepreneur, FullStackDev, Cryptocurrecies, Security, Cloud, Passionate
 
 [![Picture of myself](images/quentin.jpg)](https://quentinmcgaw.info)
 
@@ -368,69 +368,24 @@ You can check out the certificate [here](docs/Degree-imperial-college-london.pdf
 
 ## Skills details
 
-- Backend
-    - Advanced Golang
-    - Advanced NodeJS
-    - Advanced Python
-    - Advanced Java
-    - Advanced RESTful API design and Swagger
-    - Unit testing
-    - Basics of .NET
-    - Basics of PHP
-    - Basics of C++
-    - Basics of Ethereum Solidity
-    - Basics of openCL parallel computing
-- Database
-    - MySQL, MariaDB
-    - Basics of Redis
-    - Big data analytics with Hadoop, Hive, Impala, Spark etc.
-- Front end
-    - Advanced React Native with NodeJS, Babel
-    - Advanced HTML, CSS, Javascript
-    - Basics of PhoneGap, Cordova
-    - Basics of .NET
-- Design
-    - Adobe XD
-    - inVision
-    - Gimp, Photofiltre
-- Security
-    - Advanced cryptography
-    - Advanced web security
-    - Bitcoin protocol, Ethereum Solidity
-- Server Admin
-    - Advanced SSH (Setup, connecting, SFTP, tunneling, etc.)
-    - Advanced Shell & Bash scripting
-    - Users and groups management and permissions
-    - Basics of Apache, Nginx and Caddy
-    - Advanced use of Debian, Ubuntu, DSM, CentOS
-- DevOps
-    - Advanced use of Docker and Vagrant
-    - Advanced use of Git, Gitea, Gitlab, GitKraken, Zenhub
-    - Travis CI, Coveralls, Jenkins
-- Cloud
-    - Advanced use of AWS
-    - Basics of Google Cloud
-    - Basics of IBM Bluemix
-    - Basics of CloudFoundry + Bosh on AWS
-- Algorithms
-    - Advanced cryptography
-    - Fundamental algorithms
-    - Basics of Artificial intelligence
-    - Mathematics, Control engineering
-- Hardware
-    - FPGA design
-    - Digital electronics
-    - Digital signal processing
-    - Power engineering
-    - NFC technology
-    - Android OS (C, C++, Java)
-- Managerial and society
-    - Corporate finance
-    - Economics
-    - Accounting (UK only)
-    - Project management
-    - Entrepreneurship and startups
-    - Innovation management
+- Advanced skills are written in **bold**
+- Intermediate skills are written in *italic*
+- Basic skills are written normally
+
+| Backend | Database | Frontend | Design | Security | Server admin | DevOps | Cloud | Algorithms | Hardware | Managerial |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Python** | **MySQL** | *React Native* | **Adobe XD** | **Cryptography** | **SSH** | **Docker** | *AWS* | **Cryptography** | *FPGA* | *Corporate finance* |
+| **Golang** | Redis | **HTML-5, CSS, JS** | InVision | **Web security** | **Shell & Bash** | *Vagrant* | Google Cloud | Fundamental algorithms | *Digital electronics* | **Economics** |
+| *NodeJS* | *Hadoop* | *.NET* | **Gimp** | **Bitcoin** | *Users and groups* | **Git** | *IBM Bluemix* | AI | *Digital signal processing* | UK Accounting |
+| *Java* | Hive | Phonegap | **Photofiltre** | *Ethereum* | Apache | **Gitea** | Cloudfoundry & Bosh | Mathematics | *Power engineering* | Project management |
+| **RESTful** | *Impala* | Cordova | | Cardano | Nginx | Gitlab | | Control engineering | **NFC technology** | *Entrepreneurship* |
+| *GraphQL* | Spark | | | | *Caddy* | **Gitkraken** | | | *Android OS (C C++ Java)* | Innovation management |
+| **Unit testing** | | | | | **Ubuntu** | **Zenhub** | | | 
+| *.NET* | | | | | CentOS | **Travis CI** | | |
+| *C++* | | | | | Debian | *Coveralls* | | |
+| PHP | | | | | **DSM** | Jenkins | | |
+| Ethereum Solidity | | | | | |
+| OpenCL & GPUs | | | | | |
     
 ***
 
