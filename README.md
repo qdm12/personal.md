@@ -184,7 +184,7 @@ You can check a list of my skills in detail at [the bottom](#skills-details)
 
 - Design of Redio
 
-[Redio gif](https://raw.githubusercontent.com/qdm12/PersonalWebsite/master/gifs/redio.gif)]
+[Redio gif](https://raw.githubusercontent.com/qdm12/PersonalWebsite/master/gifs/redio.gif)
 
 - [AdsUp](https://sites.google.com/view/adsup/home)
 - Design of simple desktop web pages using Adobe XD for a travelling website (for a Psychological study)
