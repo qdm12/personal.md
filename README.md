@@ -413,12 +413,50 @@ You can check out the certificate [here](docs/Degree-imperial-college-london.pdf
 
 ### Computer builds
 
-- See more on [Google Drive](https://drive.google.com/drive/folders/0B5UPjZHikV5gQ3pyTVR2M3RMaUk?usp=sharing)
+- July 2018 - now: Ryzen 2700X, 16GB DDR4 3600MHz, GTX 1080
 
-- May 2017 - now: i5 6500, 16GB DDR4, GTX 1080
-  (in progress)
+Type|Item
+:----|:----
+**Motherboard** | [Asus - ROG STRIX X470-I GAMING Mini ITX AM4 Motherboard](https://pcpartpicker.com/product/Z922FT/asus-strix-x470-i-gaming-mini-itx-am4-motherboard-strix-x470-i-gaming)
+**CPU** | [AMD - Ryzen 7 2700X 3.7GHz 8-Core Processor](https://pcpartpicker.com/product/bddxFT/amd-ryzen-7-2700x-37ghz-8-core-processor-yd270xbgafbox)
+**Video Card** | [Zotac - GeForce GTX 1080 8GB Mini Video Card](https://pcpartpicker.com/product/CdTrxr/zotac-geforce-gtx-1080-8gb-mini-video-card-zt-p10800h-10p)
+**Memory** | [G.Skill - Ripjaws V Series 16GB (2 x 8GB) DDR4-3200 Memory](https://pcpartpicker.com/product/9rDzK8/gskill-memory-f43200c14d16gvr)
+**CPU Cooler** | [Noctua - NH-L12 37.8 CFM CPU Cooler](https://pcpartpicker.com/product/PP4gXL/noctua-cpu-cooler-nhl12)
+**Power Supply** | [Silverstone - 600W 80+ Gold Certified Fully-Modular SFX Power Supply](https://pcpartpicker.com/product/vQjG3C/silverstone-power-supply-sstsx600g)
+**Case**| Ncase M1
+**Storage** | [Samsung - 950 PRO 256GB M.2-2280 Solid State Drive](https://pcpartpicker.com/product/FdDzK8/samsung-internal-hard-drive-mzv5p256bw)
+**Storage** | [Seagate - FireCuda 2TB 2.5" 5400RPM Hybrid Internal Hard Drive](https://pcpartpicker.com/product/zk7CmG/seagate-firecuda-2tb-25-5400rpm-internal-hard-drive-st2000lx001)
+**Storage** | [Samsung - 840 Pro Series 128GB 2.5" Solid State Drive](https://pcpartpicker.com/product/LrNp99/samsung-internal-hard-drive-mz7pd128bw)
+**Storage** | [Seagate - Momentus 5400.6 500GB 2.5" 5400RPM Internal Hard Drive](https://pcpartpicker.com/product/YtDwrH/seagate-internal-hard-drive-st9500325as)
+**Fan hub**|  Phanteks PWM Fan Hub Controller
+**Case Fan** | [Corsair - Air Series SP120 High Performance Edition (2-Pack) 62.7 CFM  120mm Fans](https://pcpartpicker.com/product/Jc8Zxr/corsair-case-fan-co9050008ww)
+**Case Fan** | [ARCTIC - Arctic F12 74.0 CFM  120mm Fan](https://pcpartpicker.com/product/qCH323/arctic-cooling-case-fan-afaco12000gba01)
+**Case Fan** | [ARCTIC - Arctic F9 43.0 CFM  92mm Fan](https://pcpartpicker.com/product/Qmw323/arctic-cooling-case-fan-afaco09000gba01)
+**Thermal Compound** | [ARCTIC - MX-2 4g Thermal Paste](https://pcpartpicker.com/product/3wLypg/arctic-cooling-thermal-paste-mx2r)
 
-- March 2016 - May 2017: i5 6500, 16GB DDR4, GTX 970
+- May 2017 - July 2018: i5 6500, 16GB DDR4 3000MHz, GTX 1080
+
+Type|Item
+:----|:----
+**Motherboard** | [EVGA - Z270 Stinger Mini ITX LGA1151 Motherboard](https://pcpartpicker.com/product/P2Z2FT/evga-z270-stinger-mini-itx-lga1151-motherboard-111-ks-e272-kr)
+**CPU** | [Intel - Core i5-6500 3.2GHz Quad-Core Processor](https://pcpartpicker.com/product/xwhj4D/intel-cpu-bx80662i56500)
+**Video Card** | [Zotac - GeForce GTX 1080 8GB Mini Video Card](https://pcpartpicker.com/product/CdTrxr/zotac-geforce-gtx-1080-8gb-mini-video-card-zt-p10800h-10p)
+**Memory** | [Corsair - Vengeance LED 16GB (2 x 8GB) DDR4-3000 Memory](https://pcpartpicker.com/product/WTM323/corsair-vengeance-led-16gb-2-x-8gb-ddr4-3000-memory-cmu16gx4m2c3000c15b)
+**CPU Cooler** | [Noctua - NH-L12 37.8 CFM CPU Cooler](https://pcpartpicker.com/product/PP4gXL/noctua-cpu-cooler-nhl12)
+**Power Supply** | [Silverstone - 600W 80+ Gold Certified Fully-Modular SFX Power Supply](https://pcpartpicker.com/product/vQjG3C/silverstone-power-supply-sstsx600g)
+**Case**| Ncase M1
+**Storage** | [Samsung - 950 PRO 256GB M.2-2280 Solid State Drive](https://pcpartpicker.com/product/FdDzK8/samsung-internal-hard-drive-mzv5p256bw)
+**Storage** | [Seagate - FireCuda 2TB 2.5" 5400RPM Hybrid Internal Hard Drive](https://pcpartpicker.com/product/zk7CmG/seagate-firecuda-2tb-25-5400rpm-internal-hard-drive-st2000lx001)
+**Storage** | [Samsung - 840 Pro Series 128GB 2.5" Solid State Drive](https://pcpartpicker.com/product/LrNp99/samsung-internal-hard-drive-mz7pd128bw)
+**Storage** | [Kingston - SSDNow V300 Series 120GB 2.5" Solid State Drive](https://pcpartpicker.com/product/rtzv6h/kingston-internal-hard-drive-sv300s37a120g)
+**Storage** | [Seagate - Momentus 5400.6 500GB 2.5" 5400RPM Internal Hard Drive](https://pcpartpicker.com/product/YtDwrH/seagate-internal-hard-drive-st9500325as)
+**Fan hub**|  Phanteks PWM Fan Hub Controller
+**Case Fan** | [Corsair - Air Series SP120 High Performance Edition (2-Pack) 62.7 CFM  120mm Fans](https://pcpartpicker.com/product/Jc8Zxr/corsair-case-fan-co9050008ww)
+**Case Fan** | [ARCTIC - Arctic F12 74.0 CFM  120mm Fan](https://pcpartpicker.com/product/qCH323/arctic-cooling-case-fan-afaco12000gba01)
+**Case Fan** | [ARCTIC - Arctic F9 43.0 CFM  92mm Fan](https://pcpartpicker.com/product/Qmw323/arctic-cooling-case-fan-afaco09000gba01)
+**Thermal Compound** | [ARCTIC - MX-2 4g Thermal Paste](https://pcpartpicker.com/product/3wLypg/arctic-cooling-thermal-paste-mx2r)
+
+- March 2016 - May 2017: i5 6500, 16GB DDR4 3000MHz, GTX 970
 
 ![Desktop 2016 0](images/2016desktop0.jpeg)
 ![Desktop 2016 1](images/2016desktop1.jpeg)
@@ -452,6 +490,8 @@ You can check out the certificate [here](docs/Degree-imperial-college-london.pdf
 - 2009-2010: i7 920, 3GB DDR3, HD 5830
 
 ![Desktop 2010 0](images/2009desktop0.jpeg)
+
+- See more on [Google Drive](https://drive.google.com/drive/folders/0B5UPjZHikV5gQ3pyTVR2M3RMaUk?usp=sharing)
 
 ### My current Computer build
 
