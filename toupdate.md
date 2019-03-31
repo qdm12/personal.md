@@ -1,0 +1,2 @@
+- [My NYU Simplicity profile](https://nyu-csm.symplicity.com/profiles/quentin.mcgaw) (outdated)
+- [My vizualize.me webpage](http://vizualize.me/quentinmcgaw)

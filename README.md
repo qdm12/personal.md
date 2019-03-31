@@ -1,65 +1,101 @@
 # Quentin McGaw
 
-**Tags**: EEE-MEng, CS-MSc, Entrepreneur, FullStackDev, Cryptocurrecies, Security, Cloud, Passionate
+**Tags**: CS-MSc, EEE-MEng, FullStackDev, Cloud, Crypto, Entrepreneur
 
 [![Picture of myself](images/quentin.jpg)](https://quentinmcgaw.info)
 
 ## Introduction
 
-- Graduating in May 2018 in a [**Master** of **Computer science** at New York University](https://cs.nyu.edu/home/master/prospective_mscs.html).
-- Graduated from my [**Master** in **Electrical and electronic engineering with 
-  management** from Imperial College London](https://www.imperial.ac.uk/study/ug/courses/electrical-engineering-department/electrical-and-electronic-engineering-management/) 
+- Graduated from my [**Master** of **Computer science** at New York University](https://cs.nyu.edu/home/master/prospective_mscs.html) in May 2018 with 3.358 GPA
+- Graduated from my [**Master** of **Electrical and electronic engineering with management** from Imperial College London](https://www.imperial.ac.uk/study/ug/courses/electrical-engineering-department/electrical-and-electronic-engineering-management/)
   in June 2016 with upper second class honours.
 - Full stack developer
-- 6 years of [studies](#education) + 1 year of [work experience](#work-experience)
-- Fluent in English, français y un poco de español
-- French and Mauritian, and lived:
-    - 2016-2018 New York City, US
-    - 2012-2016 in London, UK
-    - 2006-2012 in Nice, France
-    - 2005-2006 in Villars-sur-Ollons, Switzerland
-    - 1995-2006 in Luxembourg
-- 22 years old
+- 6 years of [studies](#education) + 9 months of [work experience](#work-experience) + 9 months of startup development
+- Fluent in English and French
+- Maurtian, French and Luxembourgish, and lived:
+    - 2018-2019 Luxembourg and Romania
+    - 2016-2018 New York City
+    - 2012-2016 London
+    - 2006-2012 Nice, France
+    - 2005-2006 Villars-sur-Ollons, Switzerland
+    - 1995-2006 Luxembourg
+- 24 years old
 
 ## Links
 
-- [**https://quentinmcgaw.info**](https://quentinmcgaw.info)
 - [My **resume**](https://docs.google.com/document/d/1gW0IHPsngqwVWQA4ERTgOxG5V7-DIBQmt1SBq5LQEzI/export?format=pdf)
-- [My NYU Simplicity profile](https://nyu-csm.symplicity.com/profiles/quentin.mcgaw)
-- [My vizualize.me webpage](http://vizualize.me/quentinmcgaw)
+- [**https://qqq.ninja**](https://qqq.ninja)
 
 ## Expertise - Full stack dev and more
 
-My favourites: Golang, Python, React Native, Docker, SQL, HTML/CSS/JS, security & cryptography
+My favourites are Golang, Docker, React+Typescript, Postgresql, Redis, networking, cryptography
 
 The following represents icons of software or technology I am skilled in.
 
-![Skills diagram](images/skills.png)
+![Skills diagram](images/skills.jpg)
 
 You can check a list of my skills in detail at [the bottom](#skills-details)
 
 ## Hobbies
 
-- Sports: Cycling, gym, skiing, running
-- Social networks: [Quora](https://www.quora.com/profile/Quentin-McGaw), [Reddit](https://www.reddit.com/user/dowitex)
-- Home Tech
-    - Synology DS918+ NAS
-        - SSH with everything running on [Docker](https://www.docker.com/): 
-            - Networking: [Caddy](https://caddyserver.com/), [Nginx](https://www.nginx.com/), [OpenVPN Server](https://hub.docker.com/r/kylemanna/openvpn/), [GoDaddy](https://hub.docker.com/r/qmcgaw/godaddy-ip-ddns), [PIA VPN](https://github.com/qdm12/private-internet-access-docker) and [DuckDNS](https://hub.docker.com/r/linuxserver/duckdns/)
-            - Work: [Gitea](https://github.com/go-gitea/gitea)
-            - Public drag-n-drop: [Linx](https://github.com/andreimarcu/linx-server), [psitransfer](https://github.com/psi-4ward/psitransfer)
-            - Media: [Plex](https://hub.docker.com/r/plexinc/pms-docker/), [Ombi](https://hub.docker.com/r/linuxserver/ombi) and [youtube-dl](https://hub.docker.com/r/qmcgaw/youtube-dl-alpine/)
-            - P2P: [Syncthing](https://hub.docker.com/r/linuxserver/syncthing/), [Deluge](https://hub.docker.com/r/linuxserver/deluge), [Resilio Sync](https://hub.docker.com/r/linuxserver/resilio-sync/)
-            - Games: [COD4x](https://github.com/qdm12/cod4-docker) and [Minecraft Spigot](https://hub.docker.com/r/qmcgaw/spigot/) servers
-    - [Raspberry Pi 3B](https://github.com/qdm12/RaspberryPi) as my *portable* NAS
-    - GliNet AR300 as my *airport* NAS
-    - [Assembling desktops](#computer-builds)
-- Other: Cryptocurrencies, [Ebay](http://feedback.ebay.ie/ws/eBayISAPI.dll?ViewFeedback2&userid=dowi9876&ftab=FeedbackAsSeller), Audiobooks
-- Games: Planet Side 2, Minecraft, Call of Duty 4
+### Homelab
+
+- Self built server (Ryzen 2600 based) with RancherOS (Docker)
+    - [DNS over TLS server](https://github.com/qdm12/cloudflare-dns-server), self-made
+    - [DDNS Updater](https://github.com/qdm12/ddns-updater), self-made
+    - [Caddy](https://github.com/qdm12/caddy-scratch) on Scratch, partly self-made
+    - [Gitea](https://github.com/go-gitea/gitea)
+    - [PIA VPN client](https://github.com/qdm12/private-internet-access-docker), self-made   
+    - [Plex](https://github.com/spritsail/plex-media-server), contributed
+    - [Youtube-dl](https://github.com/qdm12/youtube-dl-docker), partly self-made
+    - [Syncthing](https://hub.docker.com/r/linuxserver/syncthing)
+    - [Deluge](https://hub.docker.com/r/linuxserver/deluge)
+    - [COD4x Dedicated server](https://github.com/qdm12/cod4-docker), partly self-made
+    - [Minecraft Spigot server](https://github.com/qdm12/spigot-docker), partly self-made
+    - [DockerHub trigger](https://github.com/qdm12/dockerhub-trigger), self-made
+    - [Docker proxy](https://github.com/qdm12/docker-proxy-acl-alpine), self-made
+    - [Drone CI](https://hub.docker.com/r/drone/drone/)
+    - [Droppy](https://hub.docker.com/r/silverwind/droppy/)
+    - [Iperf](https://hub.docker.com/r/networkstatic/iperf3)
+    - [Meemo](https://github.com/qdm12/meemo), partly self-made
+    - [Netdata](https://hub.docker.com/r/netdata/netdata)
+    - [Portainer](https://hub.docker.com/r/portainer/portainer)
+    - [Rsync](https://github.com/qdm12/rsync-docker)
+    - [Samba](https://hub.docker.com/r/dperson/samba)
+    - [SFTP](https://hub.docker.com/r/atmoz/sftp)
+    - [SSH Socks server](https://github.com/qdm12/ssh-socks-server-docker), self-made
+    - [Updated](https://github.com/qdm12/updated), self-made
+    - [Wekan](https://quay.io/wekan/wekan)
+- Synology DS918+ NAS with all services using Docker
+- [Raspberry Pi 3B](https://github.com/qdm12/RaspberryPi)
+- GliNet AR300 for *airports* essentially
+- [Assembling desktops and servers](#computer-builds)
+
+### Social
+
+- [Reddit](https://www.reddit.com/user/dowitex)
+- [Quora](https://www.quora.com/profile/Quentin-McGaw)
+
+### Other
+
+- Cycling, gym, skiing, running
+- Cryptocurrencies, [Ebay](http://feedback.ebay.ie/ws/eBayISAPI.dll?ViewFeedback2&userid=dowi9876&ftab=FeedbackAsSeller), Audiobooks
+- Games: PlanetSide 2, Minecraft, Call of Duty 4
 
 ***
 
 ## Work experience
+
+### Startup development (unofficial), 2018-2019
+
+- Consists in a scalable mobile app
+- Involves the following technologies
+    - Golang
+    - Docker, Docker-Compose
+    - Postgresql, Redis
+    - ReactJS, React Native with Typescript
+    - Puppeteer nodejs server
+    - Google Places API
 
 ### Industrial placement at Coinplus, 2015
 
@@ -109,16 +145,16 @@ You can check a list of my skills in detail at [the bottom](#skills-details)
     - Hadoop with NYU's Dumbo clusters in *Java* and *Python*
     - Hive, Impala, Spark, Pig etc.
     - [**Bitcoin Use Trends**](https://github.com/qdm12/BitcoinUses) project
-    
+
     [![Bitcoin Use trends website](images/bitcoinuses.png)](https://qdm12.github.io/BitcoinUses/results/)
-    
+
 - [Design and Development: Web and mobile apps](https://github.com/qdm12/courses/tree/master/Design-and-development-of-mobile-and-web-apps)
     - [**Bill Splitter** project](https://github.com/qdm12/BillSplitter)
-    
+
     [![Bill Splitter](images/billsplitter.png)](https://github.com/qdm12/BillSplitter)
-    
+
 - [Technology, design and entrepreneurship](https://github.com/qdm12/courses/tree/master/Technology-and-entrepreneurship)
-    - Ended up with the *Coyummy* project I am still working on (March 2018)
+    - Ended up with the *Mealracle* project I am still working on (March 2019)
 - DevOps
     - [Project](https://qdm12.github.io/Devops_RESTful)
     - Advanced Git, Zenhub and GitKraken
@@ -156,15 +192,27 @@ You can check a list of my skills in detail at [the bottom](#skills-details)
 
 ### Personal projects
 
-- **Coyummy** - Golang/React Native project in progress (closed source)
-- Docker containers
-    - [Private Internet Access VPN](https://github.com/qdm12/private-internet-access-docker)
-    
-        [![PIA Container](images/piadocker.png)](https://github.com/qdm12/private-internet-access-docker)
-    
-    - [GoDaddy DDNS Public IP Updater](https://github.com/qdm12/godaddy-ip-ddns)
+- [Derivatex, a CLI pseudo-random password generator](https://github.com/techsek/derivatex)
+- Many Docker images
+    - [DNS over TLS](https://github.com/qdm12/cloudflare-dns-server), 256K pulls
 
-        [![GoDaddy Container](images/godaddydocker.png)](https://github.com/qdm12/godaddy-ip-ddns)
+        [![DNS over TLS image](images/dnsovertls.png)](https://github.com/qdm12/cloudflare-dns-server)
+
+    - [Private Internet Access VPN](https://github.com/qdm12/private-internet-access-docker), 124K pulls
+
+        [![PIA Container](images/piadocker.png)](https://github.com/qdm12/private-internet-access-docker)
+
+    - [DDNS Updater](https://github.com/qdm12/ddns-updater), 6K pulls
+
+        [![DDNS updater](images/ddnsupdater.png)](https://github.com/qdm12/ddns-updater)
+
+    - [Meemo server](https://github.com/qdm12/meemo), 52K pulls
+
+        [![Meemo image](images/meemo.png)](https://github.com/qdm12/meemo)
+
+    - [Stackedit server](https://github.com/qdm12/stackedit-docker), 11K pulls
+
+        [![Stackedit image](images/stackedit.png)](https://github.com/qdm12/stackedit-docker)
 
     - [Minecraft Spigot Server](https://github.com/qdm12/spigot-docker)
 
@@ -174,25 +222,15 @@ You can check a list of my skills in detail at [the bottom](#skills-details)
 
         [![Youtube-dl Container](images/youtubedldocker.png)](https://github.com/qdm12/youtube-dl-docker)
 
-- [Password Derivator](https://github.com/qdm12/Password-Derivator)
-
-    [![Derivatex](images/derivatex.png)](https://github.com/qdm12/Password-Derivator)
-
-- [My Blockchain Course](https://github.com/qdm12/blockchain-course) (in progress)
-
-    [![Blockchain course](images/blockchain-course.png)](https://github.com/qdm12/blockchain-course)
-
 - Design of Redio
 
-[Redio gif](https://raw.githubusercontent.com/qdm12/PersonalWebsite/master/gifs/redio.gif)
+    [Redio gif](gifs/redio.gif)
 
 - [AdsUp](https://sites.google.com/view/adsup/home)
 - Design of simple desktop web pages using Adobe XD for a travelling website (for a Psychological study)
     - [Male version](https://xd.adobe.com/view/844b6668-0d5c-4d92-b30f-6bcbf3ce8479/?fullscreen)
     - [Female version](https://xd.adobe.com/view/192c9261-da69-48d6-81ac-570b5e4f5e16/?fullscreen)
-- [Portfolio management](https://github.com/qdm12/Portfolio)
-  - Written in Python, consists in a multi-threaded program parsing web pages, using the yahoo finance API, excel and a Flask server
-- [My computing course](https://github.com/qdm12/My-Computing-course)
+- [My computing course](https://github.com/qdm12/My-Computing-course) (unfinished)
 - [ThumbGifs](https://github.com/qdm12/ThumbGifs) (which is used for this document actually)
 
 ***
@@ -269,7 +307,7 @@ You can check a list of my skills in detail at [the bottom](#skills-details)
 - Accounting
 - Project management
     - Group project on the Boeing 747 project
-    
+
 ### Second year, 2013-2014
 
 #### Courses
@@ -368,52 +406,131 @@ You can check out the certificate [here](docs/Degree-imperial-college-london.pdf
 
 ## Skills details
 
-- Advanced skills are written in **bold**
-- Intermediate skills are written in *italic*
-- Basic skills are written normally
+Legend: **Advanced skills**, Intermediate skills, *Beginner skills*
 
-| Backend | Database | Frontend | Design | Security | Server admin | DevOps | Cloud | Algorithms | Hardware | Managerial |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Python** | **MySQL** | *React Native* | **Adobe XD** | **Cryptography** | **SSH** | **Docker** | *AWS* | **Cryptography** | *FPGA* | *Corporate finance* |
-| **Golang** | Redis | **HTML-5, CSS, JS** | InVision | **Web security** | **Shell & Bash** | *Vagrant* | Google Cloud | Fundamental algorithms | *Digital electronics* | **Economics** |
-| *NodeJS* | *Hadoop* | *.NET* | **Gimp** | **Bitcoin** | *Users and groups* | **Git** | *IBM Bluemix* | AI | *Digital signal processing* | UK Accounting |
-| *Java* | Hive | Phonegap | **Photofiltre** | *Ethereum* | Apache | **Gitea** | Cloudfoundry & Bosh | Mathematics | *Power engineering* | Project management |
-| **RESTful** | *Impala* | Cordova | | Cardano | Nginx | Gitlab | | Control engineering | **NFC technology** | *Entrepreneurship* |
-| *GraphQL* | Spark | | | | *Caddy* | **Gitkraken** | | | *Android OS (C C++ Java)* | Innovation management |
-| **Unit testing** | | | | | **Ubuntu** | **Zenhub** | | | 
-| *.NET* | | | | | CentOS | **Travis CI** | | |
-| *C++* | | | | | Debian | *Coveralls* | | |
-| PHP | | | | | **DSM** | Jenkins | | |
-| Ethereum Solidity | | | | | |
-| OpenCL & GPUs | | | | | |
-    
+### Backend
+
+- **Golang**
+- **Python**
+- **Scalable & distributed systems**
+- NodeJS with Typescript
+- C++
+- Java
+- .NET C#
+- *Ethereum Solidity*
+- *OpenCL and CUDA*
+- **RESTFul, unit testing**
+
+### Database
+
+- **Postgresql**
+- **Redis**
+- **SQLite**
+- MySQL
+- Hadoop
+- *Hive*
+- *Impala*
+- *Spark*
+
+### Frontend
+
+- **ReactJS+Typescript**
+- **React Native+Typescript**
+- **HTML, CSS, Js**
+- **Jquery**
+- Phonegap
+
+### Design
+
+- **Adobe XD**
+- *Invision*
+- **Gimp**
+- **Photofiltre**
+
+### Security
+
+- **Cryptography**
+- **Network security**
+- **Bitcoin protocol**
+- Ethereum protocol
+
+### Server admin
+
+- **SSH+Mosh**
+- **Many various shells**
+- User & group management
+- Reverse proxies **Caddy**/Nginx/*Apache*
+- **Alpine Linux**, **Debian**, **DSM**, RancherOS, *CentOS*
+
+### DevOps
+
+- **Docker**
+- Vagrant with Virtual Box
+- **Git** with **Github**, **Gitea** and **GitKraken**
+- **Zenhub, Wekan**
+- Drone CI
+- **Travis CI**
+
+### Cloud
+
+- **Google Cloud**
+- AWS
+- IBM Bluemix
+- RancherOS
+- Containers registries
+
+### Algorithms
+
+- **Cryptography**
+- Fundamental algorithms
+- Mathematics
+- Control engineering
+
+### Hardware
+
+- FPGAs
+- Digital electronics
+- Digital signal processing
+- Power engineering
+- Analogue electronics
+- NFC technology
+- Android OS (C, C++ & Java)
+
+### Managerial skills
+
+- Corporate finance
+- **Economics**
+- UK Accounting
+- **Project management**
+- **Entrepreneurship**
+- Innovation management
+
 ***
 
 ## Others
 
 ### Fun facts
 
-- I have a UK driving license
+- I have a driving license (from UK)
 - I climbed the [Kilimanjaro](https://goo.gl/maps/Pur81wuxvzs) mountain in Tanzania at the age of 12
 
-[![Kilimanjaro picture](images/kilimanjaro.jpg)](https://goo.gl/maps/Pur81wuxvzs)
-[![Kilimanjaro picture](images/kilimanjaro2.jpg)](https://goo.gl/maps/Pur81wuxvzs)
+    [![Kilimanjaro picture](images/kilimanjaro.jpg)](https://goo.gl/maps/Pur81wuxvzs)
+    [![Kilimanjaro picture](images/kilimanjaro2.jpg)](https://goo.gl/maps/Pur81wuxvzs)
+
 - I had a summer job as a waiter and cleaner in the [Castle Venlaw Hotel](https://goo.gl/maps/d6Waq2cGDsp) in Scotland, Peebles
 
-[![Scotland hotel picture](images/scotland.jpg)](https://goo.gl/maps/d6Waq2cGDsp)
+    [![Scotland hotel picture](images/scotland.jpg)](https://goo.gl/maps/d6Waq2cGDsp)
+
 - All my grades are accessible in this [**formatted spreadsheet**](https://docs.google.com/spreadsheets/d/1udRYqsP2acNWp2wQk6SEaNb65T-0Gl_vL5lXWiQSeGQ/edit?usp=sharing)
 - I write some funny theories like this [**one**](docs/fun-theory.md)
-- My portable NAS: The Raspberrypi Pi (thanks Denisa)
+- My first server: The Raspberrypi Pi (thanks Denisa)
 
-![Raspberry Pi picture](images/raspberrypi.jpg)
-
-### My Youtube channel
-
-(in progress)
+    ![Raspberry Pi picture](images/raspberrypi.jpg)
 
 ### Computer builds
 
-- July 2018 - now: Ryzen 2700X, 16GB DDR4 3600MHz, GTX 1080
+- October 2018 - now: Server Ryzen 2600, 16GB, 2xSSD on ZFS, GT740
+- July 2018 - now: Ryzen 2700X, 16GB DDR4 3200MHz, GTX 1080
 
 Type|Item
 :----|:----
@@ -492,25 +609,3 @@ Type|Item
 ![Desktop 2010 0](images/2009desktop0.jpeg)
 
 - See more on [Google Drive](https://drive.google.com/drive/folders/0B5UPjZHikV5gQ3pyTVR2M3RMaUk?usp=sharing)
-
-### My current Computer build
-
-Type|Item
-:----|:----
-**Motherboard** | [EVGA - Z270 Stinger Mini ITX LGA1151 Motherboard](https://pcpartpicker.com/product/P2Z2FT/evga-z270-stinger-mini-itx-lga1151-motherboard-111-ks-e272-kr)
-**CPU** | [Intel - Core i5-6500 3.2GHz Quad-Core Processor](https://pcpartpicker.com/product/xwhj4D/intel-cpu-bx80662i56500)
-**Video Card** | [Zotac - GeForce GTX 1080 8GB Mini Video Card](https://pcpartpicker.com/product/CdTrxr/zotac-geforce-gtx-1080-8gb-mini-video-card-zt-p10800h-10p)
-**Memory** | [Corsair - Vengeance LED 16GB (2 x 8GB) DDR4-3000 Memory](https://pcpartpicker.com/product/WTM323/corsair-vengeance-led-16gb-2-x-8gb-ddr4-3000-memory-cmu16gx4m2c3000c15b)
-**CPU Cooler** | [Noctua - NH-L12 37.8 CFM CPU Cooler](https://pcpartpicker.com/product/PP4gXL/noctua-cpu-cooler-nhl12)
-**Power Supply** | [Silverstone - 600W 80+ Gold Certified Fully-Modular SFX Power Supply](https://pcpartpicker.com/product/vQjG3C/silverstone-power-supply-sstsx600g)
-**Case**| Ncase M1
-**Storage** | [Samsung - 950 PRO 256GB M.2-2280 Solid State Drive](https://pcpartpicker.com/product/FdDzK8/samsung-internal-hard-drive-mzv5p256bw)
-**Storage** | [Seagate - FireCuda 2TB 2.5" 5400RPM Hybrid Internal Hard Drive](https://pcpartpicker.com/product/zk7CmG/seagate-firecuda-2tb-25-5400rpm-internal-hard-drive-st2000lx001)
-**Storage** | [Samsung - 840 Pro Series 128GB 2.5" Solid State Drive](https://pcpartpicker.com/product/LrNp99/samsung-internal-hard-drive-mz7pd128bw)
-**Storage** | [Kingston - SSDNow V300 Series 120GB 2.5" Solid State Drive](https://pcpartpicker.com/product/rtzv6h/kingston-internal-hard-drive-sv300s37a120g)
-**Storage** | [Seagate - Momentus 5400.6 500GB 2.5" 5400RPM Internal Hard Drive](https://pcpartpicker.com/product/YtDwrH/seagate-internal-hard-drive-st9500325as)
-**Fan hub**|  Phanteks PWM Fan Hub Controller
-**Case Fan** | [Corsair - Air Series SP120 High Performance Edition (2-Pack) 62.7 CFM  120mm Fans](https://pcpartpicker.com/product/Jc8Zxr/corsair-case-fan-co9050008ww)
-**Case Fan** | [ARCTIC - Arctic F12 74.0 CFM  120mm Fan](https://pcpartpicker.com/product/qCH323/arctic-cooling-case-fan-afaco12000gba01)
-**Case Fan** | [ARCTIC - Arctic F9 43.0 CFM  92mm Fan](https://pcpartpicker.com/product/Qmw323/arctic-cooling-case-fan-afaco09000gba01)
-**Thermal Compound** | [ARCTIC - MX-2 4g Thermal Paste](https://pcpartpicker.com/product/3wLypg/arctic-cooling-thermal-paste-mx2r)
