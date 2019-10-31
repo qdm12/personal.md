@@ -1,34 +1,41 @@
 # Quentin McGaw
 
-**Tags**: CS-MSc, EEE-MEng, FullStackDev, Cloud, Crypto, Entrepreneur
+**Tags**: FullStackDev, CS MSc, EEE MEng, Go, Nodejs, React, Cloud, Crypto
 
-[![Picture of myself](images/quentin.jpg)](https://quentinmcgaw.info)
+[![Picture of myself](images/quentin.jpg)](https://qqq.ninja)
 
 ## Introduction
 
+- Working at [SweetIQ](https://sweetiq.com) as a full stack developer in downtown Montreal, Canada
+- Author of [multiple 500K+ downloads open source projects](https://hub.docker.com/r/qmcgaw)
 - Graduated from my [**Master** of **Computer science** at New York University](https://cs.nyu.edu/home/master/prospective_mscs.html) in May 2018 with 3.358 GPA
 - Graduated from my [**Master** of **Electrical and electronic engineering with management** from Imperial College London](https://www.imperial.ac.uk/study/ug/courses/electrical-engineering-department/electrical-and-electronic-engineering-management/)
-  in June 2016 with upper second class honours.
-- Full stack developer
-- 6 years of [studies](#education) + 9 months of [work experience](#work-experience) + 9 months of startup development
+  in June 2016 with upper second class honours
 - Fluent in English and French
-- Maurtian, French and Luxembourgish, and lived:
+- Maurtian and Luxembourgish, and lived:
+    - 2019- Montreal
     - 2018-2019 Luxembourg and Romania
     - 2016-2018 New York City
     - 2012-2016 London
     - 2006-2012 Nice, France
     - 2005-2006 Villars-sur-Ollons, Switzerland
     - 1995-2006 Luxembourg
-- 24 years old
 
 ## Links
 
-- [My **resume**](https://docs.google.com/document/d/1gW0IHPsngqwVWQA4ERTgOxG5V7-DIBQmt1SBq5LQEzI/export?format=pdf)
+- [My updated **resume**](https://docs.google.com/document/d/1gW0IHPsngqwVWQA4ERTgOxG5V7-DIBQmt1SBq5LQEzI/export?format=pdf)
+- [Github](https://github.com/qdm12)
+- [Docker Hub](https://hub.docker.com/r/qmcgaw)
 - [**https://qqq.ninja**](https://qqq.ninja)
+- [Medium](https://medium.com/@quentin.mcgaw)
+- [LinkedIn](https://linkedin.com/in/quentin-mcgaw-72981165)
+- [Sololearn profile](https://www.sololearn.com/Profile/7022047)
 
 ## Expertise - Full stack dev and more
 
-My favourites are Golang, Docker, React+Typescript, Postgresql, Redis, networking, cryptography
+My favourites are Go, NodeJS, Docker, React.JS, Typescript, PostgreSQL, Redis, networking and cryptography/security
+
+I also master several other languages such as Java, Python, C++ although I do not use them in my daily life.
 
 The following represents icons of software or technology I am skilled in.
 
@@ -36,72 +43,44 @@ The following represents icons of software or technology I am skilled in.
 
 You can check a list of my skills in detail at [the bottom](#skills-details)
 
-## Hobbies
-
-### Homelab
-
-- Self built server (Ryzen 2600 based) with RancherOS (Docker)
-    - [DNS over TLS server](https://github.com/qdm12/cloudflare-dns-server), self-made
-    - [DDNS Updater](https://github.com/qdm12/ddns-updater), self-made
-    - [Caddy](https://github.com/qdm12/caddy-scratch) on Scratch, partly self-made
-    - [Gitea](https://github.com/go-gitea/gitea)
-    - [PIA VPN client](https://github.com/qdm12/private-internet-access-docker), self-made   
-    - [Plex](https://github.com/spritsail/plex-media-server), contributed
-    - [Youtube-dl](https://github.com/qdm12/youtube-dl-docker), partly self-made
-    - [Syncthing](https://hub.docker.com/r/linuxserver/syncthing)
-    - [Deluge](https://hub.docker.com/r/linuxserver/deluge)
-    - [COD4x Dedicated server](https://github.com/qdm12/cod4-docker), partly self-made
-    - [Minecraft Spigot server](https://github.com/qdm12/spigot-docker), partly self-made
-    - [DockerHub trigger](https://github.com/qdm12/dockerhub-trigger), self-made
-    - [Docker proxy](https://github.com/qdm12/docker-proxy-acl-alpine), self-made
-    - [Drone CI](https://hub.docker.com/r/drone/drone/)
-    - [Droppy](https://hub.docker.com/r/silverwind/droppy/)
-    - [Iperf](https://hub.docker.com/r/networkstatic/iperf3)
-    - [Meemo](https://github.com/qdm12/meemo), partly self-made
-    - [Netdata](https://hub.docker.com/r/netdata/netdata)
-    - [Portainer](https://hub.docker.com/r/portainer/portainer)
-    - [Rsync](https://github.com/qdm12/rsync-docker)
-    - [Samba](https://hub.docker.com/r/dperson/samba)
-    - [SFTP](https://hub.docker.com/r/atmoz/sftp)
-    - [SSH Socks server](https://github.com/qdm12/ssh-socks-server-docker), self-made
-    - [Updated](https://github.com/qdm12/updated), self-made
-    - [Wekan](https://quay.io/wekan/wekan)
-- Synology DS918+ NAS with all services using Docker
-- [Raspberry Pi 3B](https://github.com/qdm12/RaspberryPi)
-- GliNet AR300 for *airports* essentially
-- [Assembling desktops and servers](#computer-builds)
-
-### Social
-
-- [Reddit](https://www.reddit.com/user/dowitex)
-- [Quora](https://www.quora.com/profile/Quentin-McGaw)
-
-### Other
-
-- Cycling, gym, skiing, running
-- Cryptocurrencies, [Ebay](http://feedback.ebay.ie/ws/eBayISAPI.dll?ViewFeedback2&userid=dowi9876&ftab=FeedbackAsSeller), Audiobooks
-- Games: PlanetSide 2, Minecraft, Call of Duty 4
-
-***
-
 ## Work experience
 
-### Startup development (unofficial), 2018-2019
+### SweetIQ, 2019
+
+- Software developer
+- Go programming mostly
+    - Event driven architecture
+    - Unit and integration tests writing
+    - Final state machine development
+
+### Mobile app development, 2018-2019
 
 - Consists in a scalable mobile app
 - Involves the following technologies
-    - Golang
+    - Golang and high performance web scrapping
     - Docker, Docker-Compose
-    - Postgresql, Redis
+    - PostgreSQL, Redis
     - ReactJS, React Native with Typescript
-    - Puppeteer nodejs server
-    - Google Places API
+    - Puppeteer nodejs server (HTMLSpitter)
+    - Google Places API and Geocoding
 
-### Industrial placement at Coinplus, 2015
+### Hospital catering mangement system, nov-dec 2018
+
+- Google App Engine based, written in Typescript
+- Supports 3 hospitals and a total of 8 floors simultaneously
+
+### Multiple websites
+
+- [Law office website](https://grozinger-partners.com)
+- Initial development of [idonly.com](https://idonly.com) frontend
+- [Culinart restaurant](https://restaurantculinart.com)
+- [My website](https://qqq.ninja)
+
+### Internship at Coinplus, 2015
 
 [![Coinplus](images/coinplus.jpg)](https://www.linkedin.com/company/coinplus)
 
-- 6 months in a Bitcoin startup in Luxembourg.
+- 6 months in a Bitcoin startup in Luxembourg
     - Regulated and secured storage of bitcoins
     - Regulated transactions of bitcoins
 - My role as a software engineer was to develop a security solution for the storage of Bitcoin private keys
@@ -123,6 +102,118 @@ You can check a list of my skills in detail at [the bottom](#skills-details)
     - Android app development to showcase the OS modifications made
     - Understanding of the Android OS and of all the NFC technologies to date
     - Use of CyanogenMod on a Nexus devices for testing during development
+
+***
+
+### Personal projects
+
+- [Go Dev container](https://github.com/qdm12/godevcontainer) to develop in a container with VS code
+- [Updated](https://github.com/qdm12/updated) written in Go, to periodically generate malicious lists of IPs and hostnames
+- [DDNS Updater written in Go](https://github.com/qdm12/ddns-updater), **450K+** pulls
+
+    [![DDNS updater](images/ddnsupdater.png)](https://github.com/qdm12/ddns-updater)
+
+- [HTMLSpitter](https://github.com/qdm12/htmlspitter) to scrap the web with Puppeteer
+- [Welcome written in Go](https://github.com/qdm12/welcome) to automate SSH login tasks
+- [Simple QR code generator](https://github.com/qdm12/qr) written in Go
+- Many Docker images
+    - [DNS over TLS](https://github.com/qdm12/cloudflare-dns-server), **500K+** pulls
+
+        [![DNS over TLS image](images/dnsovertls.png)](https://github.com/qdm12/cloudflare-dns-server)
+
+    - [Private Internet Access VPN](https://github.com/qdm12/private-internet-access-docker), **500K+** pulls
+
+        [![PIA Container](images/piadocker.png)](https://github.com/qdm12/private-internet-access-docker)
+
+    - [Teamspeak server](https://github.com/qdm12/teamspeak-server-alpine), 93K downloads
+    - [Port checker written in Go](https://github.com/qdm12/port-checker)
+    - [Meemo server](https://github.com/qdm12/meemo), 63K pulls
+
+        [![Meemo image](images/meemo.png)](https://github.com/qdm12/meemo)
+
+    - [Stackedit server](https://github.com/qdm12/stackedit-docker), 11K pulls
+
+        [![Stackedit image](images/stackedit.png)](https://github.com/qdm12/stackedit-docker)
+
+    - [Minecraft Spigot Server](https://github.com/qdm12/spigot-docker)
+
+        [![Spigot Container](images/spigotdocker.png)](https://github.com/qdm12/spigot-docker)
+
+    - [Youtube-dl Alpine container](https://github.com/qdm12/youtube-dl-docker)
+
+        [![Youtube-dl Container](images/youtubedldocker.png)](https://github.com/qdm12/youtube-dl-docker)
+
+    - [Rsync](https://github.com/qdm12/rsync-docker)
+    - [Omada controller](https://github.com/qdm12/omada)
+    - [Caddy proxy on Scratch](https://github.com/qdm12/caddy-scratch)
+    - [Call of duty server](https://github.com/qdm12/cod4-docker)
+    - [Docker Hub trigger](https://github.com/qdm12/dockerhub-trigger)
+
+- Open source contributions
+    - [Mermaid Live Editor](https://github.com/mermaidjs/mermaid-live-editor/pull/63)
+    - [Lazydocker](https://github.com/jesseduffield/lazydocker/pull/36)
+    - [Plex media server](https://github.com/spritsail/plex-media-server/pull/6)
+
+- Design of Redio
+
+    [Redio gif](gifs/redio.gif)
+
+- [AdsUp](https://sites.google.com/view/adsup/home)
+- Design of simple desktop web pages using Adobe XD for a travelling website (for a Psychological study)
+    - [Male version](https://xd.adobe.com/view/844b6668-0d5c-4d92-b30f-6bcbf3ce8479/?fullscreen)
+    - [Female version](https://xd.adobe.com/view/192c9261-da69-48d6-81ac-570b5e4f5e16/?fullscreen)
+- [My computing course](https://github.com/qdm12/My-Computing-course) (unfinished)
+- [ThumbGifs](https://github.com/qdm12/ThumbGifs) (which is used for this document actually)
+
+***
+
+## Hobbies
+
+### Homelab
+
+- Main server - Arch Linux - Ryzen 2600X - 2x12TB + 2xSSD all in encrypted ZFS
+    - [DNS over TLS server](https://github.com/qdm12/cloudflare-dns-server), self-made
+    - [DDNS Updater](https://github.com/qdm12/ddns-updater), self-made
+    - [Caddy](https://github.com/qdm12/caddy-scratch) on Scratch, partly self-made
+    - [Gitea](https://github.com/go-gitea/gitea)
+    - [PIA VPN client](https://github.com/qdm12/private-internet-access-docker), self-made
+    - [Plex Media Server](https://github.com/spritsail/plex-media-server), contributed
+    - [Youtube-dl](https://github.com/qdm12/youtube-dl-docker), partly self-made
+    - [Syncthing](https://hub.docker.com/r/linuxserver/syncthing)
+    - [Deluge](https://hub.docker.com/r/linuxserver/deluge)
+    - [COD4x Dedicated server](https://github.com/qdm12/cod4-docker), partly self-made
+    - [Minecraft Spigot server](https://github.com/qdm12/spigot-docker), partly self-made
+    - [DockerHub trigger](https://github.com/qdm12/dockerhub-trigger), self-made
+    - [Docker proxy](https://github.com/qdm12/docker-proxy-acl-alpine), self-made
+    - [Drone CI](https://hub.docker.com/r/drone/drone)
+    - [Droppy](https://hub.docker.com/r/silverwind/droppy)
+    - [Iperf](https://hub.docker.com/r/networkstatic/iperf3)
+    - [Meemo](https://github.com/qdm12/meemo), partly self-made
+    - [Netdata](https://hub.docker.com/r/netdata/netdata)
+    - [Rsync](https://github.com/qdm12/rsync-docker), self-made
+    - [Samba](https://hub.docker.com/r/dperson/samba)
+    - [SFTP](https://hub.docker.com/r/atmoz/sftp)
+    - [Wireguard](https://wireguard.com)
+    - [Updated](https://github.com/qdm12/updated), self-made
+    - [Wekan](https://quay.io/wekan/wekan)
+- Secondary server - Alpine Linux - Ryzen 2600 - 120GB SSD in encrypted ZFS
+    - Running Caddy, Rsync, Samba, Wireguard, DNS over TLS server and DDNS updater
+- Synology DS918+ - 4x4TB NAS in BTRFS with all services using Docker
+- [Raspberry Pi 3B](https://github.com/qdm12/RaspberryPi)
+- GliNet AR300 for *airports* essentially
+- [Assembling desktops and servers](#computer-builds)
+
+### Social
+
+- [Reddit](https://www.reddit.com/user/dowitex)
+- [Medium](https://medium.com/@quentin.mcgaw)
+- [Quora](https://www.quora.com/profile/Quentin-McGaw)
+
+### Other
+
+- Cycling, gym, skiing, running
+- Cryptocurrencies, [Ebay](http://feedback.ebay.ie/ws/eBayISAPI.dll?ViewFeedback2&userid=dowi9876&ftab=FeedbackAsSeller), Audiobooks
+- Games: PlanetSide 2, Minecraft, Call of Duty 4
 
 ***
 
@@ -189,49 +280,6 @@ You can check a list of my skills in detail at [the bottom](#skills-details)
     - Optimization: Activity selector, Rod cutting problem
     - Graphs: BFS, DFS, Top-sort, Minimum Spanning tree, Kruskal, Prim, Dijkstra
     - Others: Huffman coding, P/N/NP, Arithmetic (Euclid, PKI etc.)
-
-### Personal projects
-
-- [Derivatex, a CLI pseudo-random password generator](https://github.com/techsek/derivatex)
-- Many Docker images
-    - [DNS over TLS](https://github.com/qdm12/cloudflare-dns-server), 256K pulls
-
-        [![DNS over TLS image](images/dnsovertls.png)](https://github.com/qdm12/cloudflare-dns-server)
-
-    - [Private Internet Access VPN](https://github.com/qdm12/private-internet-access-docker), 124K pulls
-
-        [![PIA Container](images/piadocker.png)](https://github.com/qdm12/private-internet-access-docker)
-
-    - [DDNS Updater](https://github.com/qdm12/ddns-updater), 6K pulls
-
-        [![DDNS updater](images/ddnsupdater.png)](https://github.com/qdm12/ddns-updater)
-
-    - [Meemo server](https://github.com/qdm12/meemo), 52K pulls
-
-        [![Meemo image](images/meemo.png)](https://github.com/qdm12/meemo)
-
-    - [Stackedit server](https://github.com/qdm12/stackedit-docker), 11K pulls
-
-        [![Stackedit image](images/stackedit.png)](https://github.com/qdm12/stackedit-docker)
-
-    - [Minecraft Spigot Server](https://github.com/qdm12/spigot-docker)
-
-        [![Spigot Container](images/spigotdocker.png)](https://github.com/qdm12/spigot-docker)
-
-    - [Youtube-dl Alpine container](https://github.com/qdm12/youtube-dl-docker)
-
-        [![Youtube-dl Container](images/youtubedldocker.png)](https://github.com/qdm12/youtube-dl-docker)
-
-- Design of Redio
-
-    [Redio gif](gifs/redio.gif)
-
-- [AdsUp](https://sites.google.com/view/adsup/home)
-- Design of simple desktop web pages using Adobe XD for a travelling website (for a Psychological study)
-    - [Male version](https://xd.adobe.com/view/844b6668-0d5c-4d92-b30f-6bcbf3ce8479/?fullscreen)
-    - [Female version](https://xd.adobe.com/view/192c9261-da69-48d6-81ac-570b5e4f5e16/?fullscreen)
-- [My computing course](https://github.com/qdm12/My-Computing-course) (unfinished)
-- [ThumbGifs](https://github.com/qdm12/ThumbGifs) (which is used for this document actually)
 
 ***
 
@@ -411,19 +459,19 @@ Legend: **Advanced skills**, Intermediate skills, *Beginner skills*
 ### Backend
 
 - **Golang**
+- **Node.JS & Typescript** ([Sololearn certification](https://www.sololearn.com/Certificate/1024-7022047/pdf/?mode=download))
 - **Python**
 - **Scalable & distributed systems**
-- NodeJS with Typescript
 - C++
-- Java
+- Java ([Sololearn certificate](https://www.sololearn.com/Certificate/1068-7022047/pdf/?mode=download))
 - .NET C#
 - *Ethereum Solidity*
 - *OpenCL and CUDA*
-- **RESTFul, unit testing**
+- **REST, unit testing**
 
 ### Database
 
-- **Postgresql**
+- **Postgresql** ([Sololearn certificate](https://www.sololearn.com/Certificate/1060-7022047/pdf/?mode=download))
 - **Redis**
 - **SQLite**
 - MySQL
@@ -434,10 +482,10 @@ Legend: **Advanced skills**, Intermediate skills, *Beginner skills*
 
 ### Frontend
 
-- **ReactJS+Typescript**
-- **React Native+Typescript**
+- **React.JS & Typescript**
+- **React Native & Typescript**
 - **HTML, CSS, Js**
-- **Jquery**
+- **Jquery** ([Sololearn certificate](https://www.sololearn.com/Certificate/1082-7022047/pdf/?mode=download))
 - Phonegap
 
 ### Design
